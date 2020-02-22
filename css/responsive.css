@@ -1,0 +1,131 @@
+@media screen and (min-width: 720px) {
+
+  /* * {
+    border: 1px solid red !important;
+  } */
+
+
+  /*********************************
+  With Bootstrap
+  **********************************/
+
+  /* .container2 {
+    width: 89.5%;
+  } */
+
+
+  /********** Input Form **********/
+
+
+
+  /********** Table ***********/
+
+  /* .calc {
+    display: table-cell;
+  } */
+
+}
+/*
+@media (min-width: 870px) {
+
+  input, select {
+    width: 53%;
+    margin-right: 10%;
+    float: right;
+  }
+} */
+
+/* @media screen and (min-width: 1010px) {
+
+  input, select {
+    width: auto;
+  }
+
+  select {
+    width: 160px;
+    color: white;
+    background-color: #000096;
+  }
+} */
+
+
+
+  /*********************************
+  Without Bootstrap
+  **********************************/
+
+  /* body {
+    font-family: sans-serif;
+  } */
+
+  /* .container {
+    margin: auto;
+    width: 800px
+  } */
+
+
+  /********** Input Form **********/
+
+  /* .input-form {
+    width: 660px;
+    margin: auto;
+    padding-bottom: 10px;
+    float: left;
+  } */
+
+  /* .input-form div {
+    padding: 5px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  input, select {
+    float: right;
+    margin-right: 10%;
+    border-radius: 10%;
+  }
+
+  select {
+    width: 118px;
+  }
+
+  .submit {
+    float: none;
+  } */
+
+
+  /********** Table ***********/
+  /*
+  table {
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+  }
+
+  tr:nth-child(even) {
+    background-color: lightgray;
+  }
+
+  td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
